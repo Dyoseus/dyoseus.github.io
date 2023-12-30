@@ -1,0 +1,96 @@
+h1{
+    color: violet;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica;
+    font-size: 16px;
+    font-weight: 800;
+    font-style: italic;
+    letter-spacing: 0.2em;
+}
+
+.container{
+    width: 80%;
+    margin:auto;
+    border: 5px blue solid;
+}
+
+
+.box-1 {
+    background-color:tomato
+}
+
+.box-2 {
+    border:3px dotted #ccc;
+    padding: 20px;
+    margin: 10px;
+}
+
+.links {
+    
+    border-left: 5px red solid;
+    padding: 5px;
+    margin: 20px 10px;
+    
+}
+
+.links li{
+    padding-bottom:8px;
+    border-bottom:dotted 1px #333;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    color:red;
+}
+
+.links h4 {
+    text-align: center;
+}
+
+
+
+.p-box {
+    width:800px;
+    height:500px;
+    border:1px solid black;
+    margin: 30px;
+    background-repeat: no-repeat;
+    background-image:url('../img/blue-smurf-cat-meme.jpg');
+    background-position: center center;
+}
+
+.center {
+    text-align:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+  }
+  
+
+.p-box h1{
+    position:relative;
+    top:40px;
+    left: 200px;
+
+}
+
+.p-box h2{
+    position:relative;
+    top:20px;
+    left: 30px;
+}
+
+.fixedthing {
+    position: fixed;
+    top: 400px
+}
+
+.ml li:first-child {
+    background: red;
+}
