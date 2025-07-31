@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Grow a Garden Alarm</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #6B8E23;
+            border-bottom: 3px solid #6B8E23;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #6B8E23;
+            margin-top: 30px;
+        }
+        .date {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #999;
+            font-size: 14px;
+            font-style: italic;
+        }
+        a {
+            color: #6B8E23;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ffc107;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms of Service for Grow a Garden Alarm</h1>
+        <div class="date">Effective Date: January 2025</div>
+
+        <h2>1. Acceptance of Terms</h2>
+        <p>By downloading, installing, or using Grow a Garden Alarm ("the App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.</p>
+
+        <h2>2. Description of Service</h2>
+        <p>Grow a Garden Alarm is a mobile application that provides:</p>
+        <ul>
+            <li>Real-time notifications for game item availability</li>
+            <li>Alarm functionality for tracking in-game events</li>
+            <li>Background audio alerts</li>
+            <li>Connection to third-party game servers</li>
+        </ul>
+        <p>The App is provided "as is" and may be updated from time to time.</p>
+
+        <h2>3. User Responsibilities</h2>
+        <p>As a user of this App, you agree to:</p>
+        <ul>
+            <li>Use the App only for its intended purpose</li>
+            <li>Not attempt to reverse engineer or modify the App</li>
+            <li>Not use the App to violate any laws or regulations</li>
+            <li>Respect the terms of service of connected third-party services</li>
+            <li>Not overload or abuse the notification system</li>
+        </ul>
+
+        <h2>4. Third-Party Services</h2>
+        <p>This App connects to and uses third-party services:</p>
+        <ul>
+            <li>JoshLei.com game servers for real-time data (not owned or operated by us)</li>
+            <li>Google AdMob for advertisements</li>
+            <li>Device notification systems</li>
+        </ul>
+        <p>We are not responsible for the availability, content, or policies of these third-party services. The game server at joshlei.com is independently operated.</p>
+
+        <h2>5. Privacy and Data</h2>
+        <p>Your privacy is important to us. Please review our <a href="privacy-policy.html">Privacy Policy</a> to understand how we collect, use, and protect your information. By using the App, you consent to our data practices as described in the Privacy Policy.</p>
+
+        <h2>6. Advertising</h2>
+        <p>The App displays advertisements through Google AdMob:</p>
+        <ul>
+            <li>Ads may appear throughout the App</li>
+            <li>We do not control ad content or targeting</li>
+            <li>Clicking ads may redirect you to third-party websites</li>
+            <li>Ad revenue helps support App development and maintenance</li>
+        </ul>
+
+        <h2>7. Disclaimers and Limitations</h2>
+        <div class="highlight">
+            <strong>THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES:</strong>
+        </div>
+        <ul>
+            <li>We do not guarantee continuous availability</li>
+            <li>Notification delivery depends on device and network conditions</li>
+            <li>Third-party service availability is beyond our control</li>
+            <li>We are not liable for missed notifications or game events</li>
+            <li>Use at your own risk for time-sensitive activities</li>
+        </ul>
+
+        <h2>8. Limitation of Liability</h2>
+        <p>To the maximum extent permitted by law, we shall not be liable for:</p>
+        <ul>
+            <li>Any direct, indirect, or consequential damages</li>
+            <li>Loss of game progress or opportunities</li>
+            <li>Technical issues or service interruptions</li>
+            <li>Third-party service failures</li>
+        </ul>
+        <p>Our total liability shall not exceed the amount you paid for the App (if any).</p>
+
+        <h2>9. Termination</h2>
+        <p>We reserve the right to:</p>
+        <ul>
+            <li>Discontinue the App at any time</li>
+            <li>Update these terms without prior notice</li>
+            <li>Block access for violations of these terms</li>
+        </ul>
+        <p>You may terminate your use by deleting the App from your device.</p>
+
+        <h2>10. Updates and Changes</h2>
+        <p>We may update these Terms of Service from time to time. Continued use of the App after changes constitutes acceptance of the new terms. Major changes will be communicated through App updates.</p>
+
+        <h2>11. Contact Information</h2>
+        <p>If you have questions about these Terms of Service:</p>
+        <ul>
+            <li>Contact us through the app store review system</li>
+            <li>Email: dyoseus@gmail.com</li>
+        </ul>
+
+        <div class="footer">
+            These terms were created to protect both users and developers
+        </div>
+    </div>
+</body>
+</html>
